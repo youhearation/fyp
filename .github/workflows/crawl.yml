@@ -1,0 +1,38 @@
+name: mofadai Daily Crawl
+
+on:
+  schedule:
+    # 北京时间 08:00（UTC 00:00）
+    - cron: '0 0 * * *'
+    # 北京时间 20:00（UTC 12:00）
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install requests shapely pyproj numpy
+
+      - name: Run crawler
+        run: |
+          python crawler.py
+
+      - name: Commit data
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data
+          git commit -m "auto crawl $(date '+%Y-%m-%d %H:%M')" || echo "No changes"
+          git push
