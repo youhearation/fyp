@@ -1,0 +1,69 @@
+{
+  "ret": 0,
+  "detail": {
+    "id": 6474,
+    "shop_id": 1666,
+    "category_id": 22,
+    "merchant_id": 990,
+    "product_group_id": 0,
+    "cover_url": "https://sjimgpub.slicejobs.com/yihe/merchant/product_cover/4313/20240108/1704678263_24825.jpg",
+    "title": "继光香香鸡（新桥明中广场店）趣小袋",
+    "middle_title": "",
+    "status": 1,
+    "remark": "",
+    "suggest_share_cnt": 1,
+    "description_type": 2,
+    "description": "趣小袋内包括xxx（产品名）、xxx（产品名）等【随机产品】\n口味及款式视当天销售情况而定，不支持挑选\n\n若您有忌口或过敏源，请下单后第一时间告知商家\n天气炎热，食物易坏，请务必离店前检查商品！\n如发现质量问题，请立即向商家反馈处理\n确认无误后请尽快食用！\n\n趣小袋里每天都有不同的惊喜！\n让我们携手将“低碳”进行到底，\n共创没有食物浪费的蓝色星球！\n*图片仅供参考",
+    "description_imgs": [
+      "https://sjimgpub.slicejobs.com/yihe/merchant/product_cover/4313/20240108/1704678256_40725.jpg"
+    ],
+    "daily_available_cnt": 10,
+    "today_available_cnt": 10,
+    "is_longtime": true,
+    "start_sale_date": "2024-01-08",
+    "daily_sale_time": "00:00:00",
+    "today_sold_cnt": 0,
+    "today_sent_subscribe": true,
+    "today_online_seconds": 0,
+    "pickup_starttime": "10:00:00",
+    "pickup_endtime": "21:00:00",
+    "last_online_time": "2026-01-30 00:00:00",
+    "origin_price_range": [
+      "30",
+      "35"
+    ],
+    "actual_price": 25,
+    "platform_boost_price": 0,
+    "current_store_date": "2026-01-30",
+    "created_at": "2024-01-08 09:42:09",
+    "updated_at": "2026-01-30 00:02:24",
+    "deleted_at": null,
+    "esversion": 1511,
+    "shop": {
+      "id": 1666,
+      "name": "继光香香鸡（新桥明中广场店）",
+      "address_detail": "上海市松江区明中路1885号中广场B1层B-12号",
+      "longitude": "121.32072868",
+      "latitude": "31.07342328",
+      "contacter_tel": "18918900087",
+      "score": "5.0",
+      "positive_rank_cnt": 0,
+      "negative_rank_cnt": 0,
+      "logoimg_url": false,
+      "comment_count": 0
+    },
+    "category_info": {
+      "name": "到店美食优惠",
+      "logo_url": "https://sjimgpub.slicejobs.com/yihe/admin/category/6/20231218/1702885429_68231.jpg",
+      "type": 1,
+      "is_food": 1,
+      "cover_url": false
+    },
+    "has_appointment": false,
+    "comment_list": [],
+    "shop_tags": [],
+    "positive_rank_percent": 100,
+    "comment_count": 0
+  },
+  "msg": ""
+}

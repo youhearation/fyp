@@ -1,0 +1,344 @@
+{
+  "ret": 0,
+  "detail": {
+    "id": 7280,
+    "shop_id": 1927,
+    "category_id": 8,
+    "merchant_id": 1219,
+    "product_group_id": 0,
+    "cover_url": "https://sjimgpub.slicejobs.com/yihe/merchant/product_cover/3115/20240411/1712838995_22816.jpg",
+    "title": "巴黎贝甜（博达广场店）趣小袋",
+    "middle_title": "",
+    "status": 1,
+    "remark": "",
+    "suggest_share_cnt": 1,
+    "description_type": 1,
+    "description": "趣小袋内包含三明治等【随机产品】\n口味及款式视当天销售情况而定，不支持挑选\n\n若您有忌口或过敏源，请下单后第一时间告知商家\n天气炎热，食物易坏，请务必离店前检查商品！\n如发现质量问题，请立即向商家反馈处理\n确认无误后请尽快食用！\n\n趣小袋里每天都有不同的惊喜！\n让我们携手将“低碳”进行到底，\n共创没有食物浪费的蓝色星球！\n*图片仅供参考",
+    "description_imgs": [],
+    "daily_available_cnt": 0,
+    "today_available_cnt": 0,
+    "is_longtime": true,
+    "start_sale_date": "2025-04-11",
+    "daily_sale_time": "00:00:00",
+    "today_sold_cnt": 0,
+    "today_sent_subscribe": true,
+    "today_online_seconds": 0,
+    "pickup_starttime": "21:00:00",
+    "pickup_endtime": "22:00:00",
+    "last_online_time": null,
+    "origin_price_range": [
+      "26",
+      "29"
+    ],
+    "actual_price": 13,
+    "platform_boost_price": 0,
+    "current_store_date": "2026-01-30",
+    "created_at": "2024-04-11 20:34:39",
+    "updated_at": "2026-01-30 00:01:48",
+    "deleted_at": null,
+    "esversion": 1110,
+    "shop": {
+      "id": 1927,
+      "name": "巴黎贝甜（博达广场店）",
+      "address_detail": "上海市浦东新区博山东路88号1层02号铺位",
+      "longitude": "121.56064600",
+      "latitude": "31.24763700",
+      "contacter_tel": "021-50188893",
+      "score": "4.6",
+      "positive_rank_cnt": 26,
+      "negative_rank_cnt": 4,
+      "logoimg_url": false,
+      "comment_count": 26
+    },
+    "category_info": {
+      "name": "三明治",
+      "logo_url": "https://sjimgpub.slicejobs.com/yihe/admin/category/17/20230103/1672735488_40232.jpg",
+      "type": 1,
+      "is_food": 1,
+      "cover_url": false
+    },
+    "has_appointment": false,
+    "comment_list": [
+      {
+        "id": 56247,
+        "order_id": 225024,
+        "user_id": 200055,
+        "shop_id": 1927,
+        "product_id": 7244,
+        "merchant_id": 1219,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "拿袋子很熟练，整体流程非常清晰，服务员态度也不错，面包也很好吃",
+        "image_urls": [
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/200055/20250403/1743685677_65723.jpg",
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/200055/20250403/1743685677_25365.jpg",
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/200055/20250403/1743685677_21279.jpg",
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/200055/20250403/1743685677_75867.jpg"
+        ],
+        "user_nickname": "趣粉9197",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094402_14835.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [],
+        "created_at": "2025-04-03 21:08:18",
+        "updated_at": "2025-04-03 21:08:18",
+        "is_liked": false
+      },
+      {
+        "id": 56114,
+        "order_id": 224130,
+        "user_id": 198205,
+        "shop_id": 1927,
+        "product_id": 7244,
+        "merchant_id": 1219,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "",
+        "image_urls": [],
+        "user_nickname": "趣粉3015",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094366_56289.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [],
+        "created_at": "2025-03-29 21:13:14",
+        "updated_at": "2025-03-29 21:13:14",
+        "is_liked": false
+      },
+      {
+        "id": 56035,
+        "order_id": 223803,
+        "user_id": 199840,
+        "shop_id": 1927,
+        "product_id": 7243,
+        "merchant_id": 1219,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "去的时候没什么客人，店员还会问是喜欢甜的，还是咸的，没想到一上来就给我了一个蘑菇沙拉贝果，稳赚了，另外还给了两个羊角，真的棒",
+        "image_urls": [],
+        "user_nickname": "趣粉8134",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094366_56289.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [],
+        "created_at": "2025-03-26 21:59:19",
+        "updated_at": "2025-03-26 21:59:19",
+        "is_liked": false
+      },
+      {
+        "id": 55911,
+        "order_id": 223079,
+        "user_id": 199106,
+        "shop_id": 1927,
+        "product_id": 7243,
+        "merchant_id": 1219,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "三个面包，一个贝果，一个肉松，一个三明治类的，很不错。",
+        "image_urls": [],
+        "user_nickname": "趣粉5724",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094402_14835.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "created_at": "2025-03-24 07:57:22",
+        "updated_at": "2025-03-24 07:57:22",
+        "is_liked": false
+      },
+      {
+        "id": 55908,
+        "order_id": 223253,
+        "user_id": 199216,
+        "shop_id": 1927,
+        "product_id": 7243,
+        "merchant_id": 1219,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "第一次怀着好奇心，点了一份，价格还是很划算，3个15.9，平常一个都要10，蛮不错的。下次还想试试西点类，不知道有什么惊喜。",
+        "image_urls": [
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/199216/20250323/1742738378_90148.jpg"
+        ],
+        "user_nickname": "趣粉4026",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094402_14835.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          6,
+          7
+        ],
+        "created_at": "2025-03-23 22:01:44",
+        "updated_at": "2025-03-23 22:01:44",
+        "is_liked": false
+      },
+      {
+        "id": 55102,
+        "order_id": 219598,
+        "user_id": 158953,
+        "shop_id": 1927,
+        "product_id": 7243,
+        "merchant_id": 1219,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "三明治盲盒就是原价26的三明治，直接打5折，开心的哦😁",
+        "image_urls": [
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/158953/20250227/1740662084_87465.jpg"
+        ],
+        "user_nickname": "趣粉3350",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094366_56289.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          12
+        ],
+        "created_at": "2025-02-27 21:15:13",
+        "updated_at": "2025-02-27 21:15:13",
+        "is_liked": false
+      },
+      {
+        "id": 55100,
+        "order_id": 219661,
+        "user_id": 158953,
+        "shop_id": 1927,
+        "product_id": 7280,
+        "merchant_id": 1219,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "15.9的烘焙🥯盲盒开出了3个我爱吃的甜甜面包，开心🥳",
+        "image_urls": [
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/158953/20250227/1740661999_40705.jpg",
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/158953/20250227/1740662011_79198.jpg",
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/158953/20250227/1740662022_22659.jpg"
+        ],
+        "user_nickname": "趣粉3350",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094366_56289.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          3,
+          6,
+          11
+        ],
+        "created_at": "2025-02-27 21:14:29",
+        "updated_at": "2025-02-27 21:14:29",
+        "is_liked": false
+      },
+      {
+        "id": 54440,
+        "order_id": 216124,
+        "user_id": 193671,
+        "shop_id": 1927,
+        "product_id": 7244,
+        "merchant_id": 1219,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "太赞了",
+        "image_urls": [
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/193671/20250123/1737606376_46049.jpg"
+        ],
+        "user_nickname": "趣粉9778",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094395_73133.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "created_at": "2025-01-23 12:26:24",
+        "updated_at": "2025-01-23 12:26:24",
+        "is_liked": false
+      }
+    ],
+    "shop_tags": [
+      {
+        "id": 1,
+        "name": "服务态度好",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 11
+      },
+      {
+        "id": 3,
+        "name": "位置好找",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 8
+      },
+      {
+        "id": 6,
+        "name": "取货方便",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 8
+      },
+      {
+        "id": 2,
+        "name": "份量大",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 7
+      },
+      {
+        "id": 5,
+        "name": "物美价廉",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 7
+      },
+      {
+        "id": 4,
+        "name": "商品新鲜",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 4
+      },
+      {
+        "id": 12,
+        "name": "超惊喜",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 4
+      },
+      {
+        "id": 7,
+        "name": "推荐",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 3
+      },
+      {
+        "id": 11,
+        "name": "颜值高",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 1
+      }
+    ],
+    "positive_rank_percent": 87,
+    "comment_count": 1
+  },
+  "msg": ""
+}

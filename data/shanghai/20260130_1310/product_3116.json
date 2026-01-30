@@ -1,0 +1,342 @@
+{
+  "ret": 0,
+  "detail": {
+    "id": 3116,
+    "shop_id": 780,
+    "category_id": 6,
+    "merchant_id": 411,
+    "product_group_id": 0,
+    "cover_url": "https://sjimgpub.slicejobs.com/yihe/merchant/product_cover/2398/20230623/1687504594_44257.jpg",
+    "title": "花花卷卷趣小袋",
+    "middle_title": "",
+    "status": 1,
+    "remark": "4寸",
+    "suggest_share_cnt": 3,
+    "description_type": 1,
+    "description": "【4寸现做，100%纯动物奶油】\n趣小袋里每天都有不同的惊喜！\n我们无法预测趣小袋中的具体商品，\n这取决于门店商品的今日盈余。\n若您有忌口或过敏源，请在预订前联系商家咨询。\n\n感谢您为拯救临期食物做出的贡献，\n让我们携手将“低碳”进行到底！\n共创没有食物浪费的蓝色星球。",
+    "description_imgs": [],
+    "daily_available_cnt": 1,
+    "today_available_cnt": 0,
+    "is_longtime": false,
+    "start_sale_date": "2025-06-02",
+    "daily_sale_time": "15:00:00",
+    "today_sold_cnt": 0,
+    "today_sent_subscribe": true,
+    "today_online_seconds": 0,
+    "pickup_starttime": "19:00:00",
+    "pickup_endtime": "21:30:00",
+    "last_online_time": null,
+    "origin_price_range": [
+      "138",
+      "168"
+    ],
+    "actual_price": 79,
+    "platform_boost_price": 0,
+    "current_store_date": "2025-06-27",
+    "created_at": "2023-06-23 14:37:42",
+    "updated_at": "2025-06-28 00:03:51",
+    "deleted_at": null,
+    "esversion": 614,
+    "shop": {
+      "id": 780,
+      "name": "花花卷卷(大宁久光中心店)",
+      "address_detail": "共和新路2188号大宁久光中心B2层MB201-17+MB201-18商铺",
+      "longitude": "121.45087129",
+      "latitude": "31.27653700",
+      "contacter_tel": "13301750361",
+      "score": "5.0",
+      "positive_rank_cnt": 29,
+      "negative_rank_cnt": 1,
+      "logoimg_url": false,
+      "comment_count": 36
+    },
+    "category_info": {
+      "name": "烘焙",
+      "logo_url": "https://sjimgpub.slicejobs.com/yihe/admin/category/2/20221122/1669098637_78698.png",
+      "type": 1,
+      "is_food": 1,
+      "cover_url": false
+    },
+    "has_appointment": false,
+    "comment_list": [
+      {
+        "id": 55942,
+        "order_id": 223395,
+        "user_id": 76443,
+        "shop_id": 780,
+        "product_id": 4605,
+        "merchant_id": 411,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "",
+        "image_urls": [],
+        "user_nickname": "用户2835",
+        "user_avatar_url": "",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [],
+        "created_at": "2025-03-24 19:41:19",
+        "updated_at": "2025-03-24 19:41:19",
+        "is_liked": false
+      },
+      {
+        "id": 55179,
+        "order_id": 151562,
+        "user_id": 49217,
+        "shop_id": 780,
+        "product_id": 3116,
+        "merchant_id": 411,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "",
+        "image_urls": [],
+        "user_nickname": "用户4577",
+        "user_avatar_url": "",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          1,
+          3,
+          12
+        ],
+        "created_at": "2025-03-02 12:04:40",
+        "updated_at": "2025-03-02 12:04:40",
+        "is_liked": false
+      },
+      {
+        "id": 55173,
+        "order_id": 164565,
+        "user_id": 49217,
+        "shop_id": 780,
+        "product_id": 4605,
+        "merchant_id": 411,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "",
+        "image_urls": [],
+        "user_nickname": "用户4577",
+        "user_avatar_url": "",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          1,
+          2,
+          12
+        ],
+        "created_at": "2025-03-02 12:03:32",
+        "updated_at": "2025-03-02 12:03:32",
+        "is_liked": false
+      },
+      {
+        "id": 50974,
+        "order_id": 197984,
+        "user_id": 167634,
+        "shop_id": 780,
+        "product_id": 4605,
+        "merchant_id": 411,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "",
+        "image_urls": [],
+        "user_nickname": "趣粉2756",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094409_76492.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          1,
+          2
+        ],
+        "created_at": "2024-09-20 20:40:44",
+        "updated_at": "2024-09-20 20:40:44",
+        "is_liked": false
+      },
+      {
+        "id": 50191,
+        "order_id": 193745,
+        "user_id": 164832,
+        "shop_id": 780,
+        "product_id": 3117,
+        "merchant_id": 411,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "",
+        "image_urls": [],
+        "user_nickname": "趣粉0722",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094395_73133.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [],
+        "created_at": "2024-08-27 19:20:31",
+        "updated_at": "2024-08-27 19:20:31",
+        "is_liked": false
+      },
+      {
+        "id": 49883,
+        "order_id": 192124,
+        "user_id": 185737,
+        "shop_id": 780,
+        "product_id": 4872,
+        "merchant_id": 411,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "惊喜的小蛋糕，女儿特别喜欢！",
+        "image_urls": [
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/185737/20240819/1724069008_96163.jpg"
+        ],
+        "user_nickname": "趣粉7286",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094388_13424.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          1,
+          3,
+          4,
+          5,
+          12
+        ],
+        "created_at": "2024-08-19 20:04:17",
+        "updated_at": "2024-08-19 20:04:17",
+        "is_liked": false
+      },
+      {
+        "id": 49673,
+        "order_id": 191089,
+        "user_id": 181219,
+        "shop_id": 780,
+        "product_id": 4872,
+        "merchant_id": 411,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "拿到是魔盒蛋糕，超惊喜！",
+        "image_urls": [
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/181219/20240814/1723635662_73466.jpg"
+        ],
+        "user_nickname": "趣粉6292",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094388_13424.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          1,
+          4,
+          6,
+          12
+        ],
+        "created_at": "2024-08-14 19:43:13",
+        "updated_at": "2024-08-14 19:43:13",
+        "is_liked": false
+      },
+      {
+        "id": 49522,
+        "order_id": 190112,
+        "user_id": 141570,
+        "shop_id": 780,
+        "product_id": 4605,
+        "merchant_id": 411,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "还不错芒果味到的",
+        "image_urls": [
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/141570/20240810/1723301705_37616.jpg",
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/141570/20240810/1723301705_24605.jpg",
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/141570/20240810/1723301705_60731.jpg",
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/141570/20240810/1723301712_83387.jpg"
+        ],
+        "user_nickname": "趣粉6539",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094388_13424.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          4,
+          11
+        ],
+        "created_at": "2024-08-10 22:55:26",
+        "updated_at": "2024-08-10 22:55:26",
+        "is_liked": false
+      }
+    ],
+    "shop_tags": [
+      {
+        "id": 1,
+        "name": "服务态度好",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 14
+      },
+      {
+        "id": 4,
+        "name": "商品新鲜",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 9
+      },
+      {
+        "id": 12,
+        "name": "超惊喜",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 8
+      },
+      {
+        "id": 3,
+        "name": "位置好找",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 7
+      },
+      {
+        "id": 2,
+        "name": "份量大",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 6
+      },
+      {
+        "id": 11,
+        "name": "颜值高",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 4
+      },
+      {
+        "id": 6,
+        "name": "取货方便",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 3
+      },
+      {
+        "id": 5,
+        "name": "物美价廉",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 2
+      },
+      {
+        "id": 7,
+        "name": "推荐",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 2
+      }
+    ],
+    "positive_rank_percent": 97,
+    "comment_count": 9
+  },
+  "msg": ""
+}
