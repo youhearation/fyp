@@ -1,0 +1,212 @@
+{
+  "ret": 0,
+  "detail": {
+    "id": 5569,
+    "shop_id": 1375,
+    "category_id": 6,
+    "merchant_id": 749,
+    "product_group_id": 0,
+    "cover_url": "https://sjimgpub.slicejobs.com/yihe/admin/category/2/20221122/1669098633_26868.png",
+    "title": "苏麦手感烘焙趣小袋",
+    "middle_title": "",
+    "status": 1,
+    "remark": "",
+    "suggest_share_cnt": 1,
+    "description_type": 1,
+    "description": "趣小袋内可能含有面包，吐司等【随机产品】。\n产品均为临期产品，具体的口味及款式无法提前确定，也不支持挑选噢～\n\n若您有忌口或过敏源，请下单后第一时间告知商家\n产品保质期较短，易坏，请务必离店前检查商品！\n如发现质量问题，请立即向商家反馈处理\n确认无误后请尽快食用！\n\n让我们携手将“低碳”进行到底，\n共创没有食物浪费的蓝色星球！\n*图片仅供参考",
+    "description_imgs": [],
+    "daily_available_cnt": 2,
+    "today_available_cnt": 2,
+    "is_longtime": true,
+    "start_sale_date": "2023-11-08",
+    "daily_sale_time": "00:00:00",
+    "today_sold_cnt": 0,
+    "today_sent_subscribe": true,
+    "today_online_seconds": 0,
+    "pickup_starttime": "18:00:00",
+    "pickup_endtime": "23:00:00",
+    "last_online_time": "2026-01-30 00:00:00",
+    "origin_price_range": [
+      "36",
+      "40"
+    ],
+    "actual_price": 17.9,
+    "platform_boost_price": 0,
+    "current_store_date": "2026-01-30",
+    "created_at": "2023-11-08 11:15:03",
+    "updated_at": "2026-01-30 00:01:50",
+    "deleted_at": null,
+    "esversion": 1697,
+    "shop": {
+      "id": 1375,
+      "name": "苏麦手感烘焙",
+      "address_detail": "上海市浦东新区川沙镇城南路754号",
+      "longitude": "121.69269400",
+      "latitude": "31.18928000",
+      "contacter_tel": "13122342149",
+      "score": "2.7",
+      "positive_rank_cnt": 4,
+      "negative_rank_cnt": 4,
+      "logoimg_url": false,
+      "comment_count": 4
+    },
+    "category_info": {
+      "name": "烘焙",
+      "logo_url": "https://sjimgpub.slicejobs.com/yihe/admin/category/2/20221122/1669098637_78698.png",
+      "type": 1,
+      "is_food": 1,
+      "cover_url": false
+    },
+    "has_appointment": false,
+    "comment_list": [
+      {
+        "id": 56849,
+        "order_id": 226459,
+        "user_id": 201717,
+        "shop_id": 1375,
+        "product_id": 5569,
+        "merchant_id": 749,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "",
+        "image_urls": [],
+        "user_nickname": "趣粉3106",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094366_56289.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          2,
+          6
+        ],
+        "created_at": "2025-04-25 18:47:49",
+        "updated_at": "2025-04-25 18:47:49",
+        "is_liked": false
+      },
+      {
+        "id": 54729,
+        "order_id": 217800,
+        "user_id": 194756,
+        "shop_id": 1375,
+        "product_id": 5569,
+        "merchant_id": 749,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "",
+        "image_urls": [],
+        "user_nickname": "趣粉6326",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094395_73133.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          2
+        ],
+        "created_at": "2025-02-13 19:12:18",
+        "updated_at": "2025-02-13 19:12:18",
+        "is_liked": false
+      },
+      {
+        "id": 34609,
+        "order_id": 107722,
+        "user_id": 51675,
+        "shop_id": 1375,
+        "product_id": 5569,
+        "merchant_id": 749,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "17.9拿到了两个",
+        "image_urls": [
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/51675/20231128/1701177790_58131.jpg"
+        ],
+        "user_nickname": "用户4613",
+        "user_avatar_url": "",
+        "score": "5.0",
+        "point_score_service_attitude": "0",
+        "point_score_cost_performance": "0",
+        "point_score_convenient": "0",
+        "tag_list": [],
+        "created_at": "2023-11-28 21:24:18",
+        "updated_at": "2023-11-28 21:24:18",
+        "is_liked": false
+      },
+      {
+        "id": 34500,
+        "order_id": 107053,
+        "user_id": 154936,
+        "shop_id": 1375,
+        "product_id": 5569,
+        "merchant_id": 749,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "很不错，下次回购",
+        "image_urls": [],
+        "user_nickname": "趣粉2247",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094409_76492.png",
+        "score": "5.0",
+        "point_score_service_attitude": "0",
+        "point_score_cost_performance": "0",
+        "point_score_convenient": "0",
+        "tag_list": [
+          1,
+          3,
+          4,
+          6,
+          11
+        ],
+        "created_at": "2023-11-27 18:22:04",
+        "updated_at": "2023-11-27 18:22:04",
+        "is_liked": false
+      }
+    ],
+    "shop_tags": [
+      {
+        "id": 2,
+        "name": "份量大",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 2
+      },
+      {
+        "id": 6,
+        "name": "取货方便",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 2
+      },
+      {
+        "id": 1,
+        "name": "服务态度好",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 1
+      },
+      {
+        "id": 3,
+        "name": "位置好找",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 1
+      },
+      {
+        "id": 4,
+        "name": "商品新鲜",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 1
+      },
+      {
+        "id": 11,
+        "name": "颜值高",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 1
+      }
+    ],
+    "positive_rank_percent": 80,
+    "comment_count": 8
+  },
+  "msg": ""
+}
