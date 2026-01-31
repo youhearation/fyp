@@ -1,0 +1,117 @@
+{
+  "ret": 0,
+  "detail": {
+    "id": 2118,
+    "shop_id": 644,
+    "category_id": 6,
+    "merchant_id": 382,
+    "product_group_id": 0,
+    "cover_url": "https://sjimgpub.slicejobs.com/yihe/merchant/product_cover/569/20230329/1680099739_19051.jpg",
+    "title": "欢喜轻恬·减糖点心·零卡糖蛋糕(健康智谷店)趣小袋",
+    "middle_title": "",
+    "status": 1,
+    "remark": "",
+    "suggest_share_cnt": 1,
+    "description_type": 1,
+    "description": "趣小袋里每天都有不同的惊喜！\n我们无法预测趣小袋中的具体商品，\n这取决于门店商品的今日盈余。\n若您有忌口或过敏源，请在预订前联系商家咨询。\n\n感谢您为拯救临期食物做出的贡献，\n让我们携手将“低碳”进行到底！\n共创没有食物浪费的蓝色星球。",
+    "description_imgs": [],
+    "daily_available_cnt": 5,
+    "today_available_cnt": 0,
+    "is_longtime": true,
+    "start_sale_date": "2024-03-29",
+    "daily_sale_time": "00:00:00",
+    "today_sold_cnt": 0,
+    "today_sent_subscribe": true,
+    "today_online_seconds": 0,
+    "pickup_starttime": "18:00:00",
+    "pickup_endtime": "19:00:00",
+    "last_online_time": null,
+    "origin_price_range": [
+      "18",
+      "24"
+    ],
+    "actual_price": 11.39,
+    "platform_boost_price": 1.49,
+    "current_store_date": "2026-01-31",
+    "created_at": "2023-03-29 22:22:05",
+    "updated_at": "2026-01-31 00:00:14",
+    "deleted_at": null,
+    "esversion": 1098,
+    "shop": {
+      "id": 644,
+      "name": "欢喜轻恬·减糖点心·零卡糖蛋糕(健康智谷店)",
+      "address_detail": "上海市静安区大宁路街道灵石路697号健康智谷3号楼114室",
+      "longitude": "121.44840000",
+      "latitude": "31.28349800",
+      "contacter_tel": "18997700099",
+      "score": "4.9",
+      "positive_rank_cnt": 35,
+      "negative_rank_cnt": 1,
+      "logoimg_url": false,
+      "comment_count": 0
+    },
+    "category_info": {
+      "name": "烘焙",
+      "logo_url": "https://sjimgpub.slicejobs.com/yihe/admin/category/2/20221122/1669098637_78698.png",
+      "type": 1,
+      "is_food": 1,
+      "cover_url": false
+    },
+    "has_appointment": false,
+    "comment_list": [],
+    "shop_tags": [
+      {
+        "id": 2,
+        "name": "份量大",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 2
+      },
+      {
+        "id": 3,
+        "name": "位置好找",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 2
+      },
+      {
+        "id": 4,
+        "name": "商品新鲜",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 2
+      },
+      {
+        "id": 5,
+        "name": "物美价廉",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 2
+      },
+      {
+        "id": 6,
+        "name": "取货方便",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 2
+      },
+      {
+        "id": 1,
+        "name": "服务态度好",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 1
+      },
+      {
+        "id": 7,
+        "name": "推荐",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 1
+      }
+    ],
+    "positive_rank_percent": 97,
+    "comment_count": 0
+  },
+  "msg": ""
+}

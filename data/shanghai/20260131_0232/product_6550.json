@@ -1,0 +1,143 @@
+{
+  "ret": 0,
+  "detail": {
+    "id": 6550,
+    "shop_id": 1709,
+    "category_id": 6,
+    "merchant_id": 1029,
+    "product_group_id": 0,
+    "cover_url": "https://sjimgpub.slicejobs.com/yihe/admin/category/2/20221122/1669098633_26868.png",
+    "title": "巴黎贝甜曹路花园店趣小袋",
+    "middle_title": "",
+    "status": 1,
+    "remark": "",
+    "suggest_share_cnt": 1,
+    "description_type": 1,
+    "description": "趣小袋内可能含有现烤面包等【随机产品】。\n产品均为临期产品，具体的口味及款式无法提前确定，也不支持挑选噢～\n\n若您有忌口或过敏源，请下单后第一时间告知商家\n产品保质期较短，易坏，请务必离店前检查商品！\n如发现质量问题，请立即向商家反馈处理\n确认无误后请尽快食用！\n\n让我们携手将“低碳”进行到底，\n共创没有食物浪费的蓝色星球！\n*图片仅供参考",
+    "description_imgs": [],
+    "daily_available_cnt": 0,
+    "today_available_cnt": 0,
+    "is_longtime": true,
+    "start_sale_date": "2024-02-16",
+    "daily_sale_time": "20:00:00",
+    "today_sold_cnt": 0,
+    "today_sent_subscribe": false,
+    "today_online_seconds": 0,
+    "pickup_starttime": "20:30:00",
+    "pickup_endtime": "21:30:00",
+    "last_online_time": "2026-01-31 20:00:00",
+    "origin_price_range": [
+      "40",
+      "43"
+    ],
+    "actual_price": 15.9,
+    "platform_boost_price": 0,
+    "current_store_date": "2026-01-31",
+    "created_at": "2024-01-11 16:20:50",
+    "updated_at": "2026-01-31 00:01:24",
+    "deleted_at": null,
+    "esversion": 1514,
+    "shop": {
+      "id": 1709,
+      "name": "巴黎贝甜（曹路花园店）",
+      "address_detail": "上海市浦东新区顾唐路99号B1 1030",
+      "longitude": "121.65846377",
+      "latitude": "31.26018893",
+      "contacter_tel": "15000532349",
+      "score": "5.0",
+      "positive_rank_cnt": 2,
+      "negative_rank_cnt": 0,
+      "logoimg_url": false,
+      "comment_count": 2
+    },
+    "category_info": {
+      "name": "烘焙",
+      "logo_url": "https://sjimgpub.slicejobs.com/yihe/admin/category/2/20221122/1669098637_78698.png",
+      "type": 1,
+      "is_food": 1,
+      "cover_url": false
+    },
+    "has_appointment": false,
+    "comment_list": [
+      {
+        "id": 40626,
+        "order_id": 147748,
+        "user_id": 615,
+        "shop_id": 1709,
+        "product_id": 6550,
+        "merchant_id": 1029,
+        "liked_count": 2,
+        "from_type": 1,
+        "content": "我这是捅了巧克力的窝了嘛？除了菠萝包全是和巧克力相关的面包，巧克力可颂，巧克力甜甜圈，巧克力包",
+        "image_urls": [
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/615/20240326/1711412931_44550.jpg",
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/615/20240326/1711412932_34614.jpg",
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/615/20240326/1711412932_65653.jpg",
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/615/20240326/1711412932_35725.jpg"
+        ],
+        "user_nickname": "用户1650",
+        "user_avatar_url": "",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [],
+        "created_at": "2024-03-26 08:30:18",
+        "updated_at": "2025-02-18 22:21:30",
+        "is_liked": false
+      },
+      {
+        "id": 37930,
+        "order_id": 134238,
+        "user_id": 4593,
+        "shop_id": 1709,
+        "product_id": 6550,
+        "merchant_id": 1029,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "还可以第一次买",
+        "image_urls": [],
+        "user_nickname": "用户8496",
+        "user_avatar_url": "",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          3,
+          6,
+          12
+        ],
+        "created_at": "2024-02-04 21:30:46",
+        "updated_at": "2024-02-04 21:30:46",
+        "is_liked": false
+      }
+    ],
+    "shop_tags": [
+      {
+        "id": 3,
+        "name": "位置好找",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 1
+      },
+      {
+        "id": 6,
+        "name": "取货方便",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 1
+      },
+      {
+        "id": 12,
+        "name": "超惊喜",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 1
+      }
+    ],
+    "positive_rank_percent": 100,
+    "comment_count": 2
+  },
+  "msg": ""
+}

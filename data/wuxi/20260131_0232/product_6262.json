@@ -1,0 +1,184 @@
+{
+  "ret": 0,
+  "detail": {
+    "id": 6262,
+    "shop_id": 1606,
+    "category_id": 6,
+    "merchant_id": 940,
+    "product_group_id": 0,
+    "cover_url": "https://sjimgpub.slicejobs.com/yihe/admin/category/2/20221122/1669098633_26868.png",
+    "title": "麦瑞贝卡趣小袋",
+    "middle_title": "",
+    "status": 1,
+    "remark": "",
+    "suggest_share_cnt": 2,
+    "description_type": 1,
+    "description": "趣小袋内可能含有丹麦三明治、流心可颂等【随机产品】。\n产品均为临期产品，具体的口味及款式无法提前确定，也不支持挑选噢～\n\n若您有忌口或过敏源，请下单后第一时间告知商家\n产品保质期较短，易坏，请务必离店前检查商品！\n如发现质量问题，请立即向商家反馈处理\n确认无误后请尽快食用！\n\n让我们携手将“低碳”进行到底，\n共创没有食物浪费的蓝色星球！\n*图片仅供参考",
+    "description_imgs": [],
+    "daily_available_cnt": 3,
+    "today_available_cnt": 3,
+    "is_longtime": true,
+    "start_sale_date": "2023-12-19",
+    "daily_sale_time": "00:00:00",
+    "today_sold_cnt": 0,
+    "today_sent_subscribe": true,
+    "today_online_seconds": 0,
+    "pickup_starttime": "20:30:00",
+    "pickup_endtime": "21:30:00",
+    "last_online_time": "2026-01-31 00:00:00",
+    "origin_price_range": [
+      "30",
+      "35"
+    ],
+    "actual_price": 17.8,
+    "platform_boost_price": 0,
+    "current_store_date": "2026-01-31",
+    "created_at": "2023-12-19 15:46:46",
+    "updated_at": "2026-01-31 00:02:06",
+    "deleted_at": null,
+    "esversion": 1615,
+    "shop": {
+      "id": 1606,
+      "name": "麦瑞贝卡（龙塘家园店）",
+      "address_detail": "江苏省无锡市梁溪区龙塘路龙塘家园193-25号",
+      "longitude": "120.28109500",
+      "latitude": "31.62664800",
+      "contacter_tel": "18770127547",
+      "score": "4.8",
+      "positive_rank_cnt": 3,
+      "negative_rank_cnt": 0,
+      "logoimg_url": false,
+      "comment_count": 3
+    },
+    "category_info": {
+      "name": "烘焙",
+      "logo_url": "https://sjimgpub.slicejobs.com/yihe/admin/category/2/20221122/1669098637_78698.png",
+      "type": 1,
+      "is_food": 1,
+      "cover_url": false
+    },
+    "has_appointment": false,
+    "comment_list": [
+      {
+        "id": 40027,
+        "order_id": 145020,
+        "user_id": 169218,
+        "shop_id": 1606,
+        "product_id": 6262,
+        "merchant_id": 940,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "",
+        "image_urls": [],
+        "user_nickname": "趣粉2531",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094376_31357.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          1,
+          3
+        ],
+        "created_at": "2024-03-17 20:41:00",
+        "updated_at": "2024-03-17 20:41:00",
+        "is_liked": false
+      },
+      {
+        "id": 36308,
+        "order_id": 121448,
+        "user_id": 159840,
+        "shop_id": 1606,
+        "product_id": 6262,
+        "merchant_id": 940,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "不错，很棒的店",
+        "image_urls": [
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/159840/20231231/1704026675_47964.jpg"
+        ],
+        "user_nickname": "趣粉9580",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094395_73133.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          1,
+          4,
+          5,
+          6
+        ],
+        "created_at": "2023-12-31 20:44:59",
+        "updated_at": "2023-12-31 20:44:59",
+        "is_liked": false
+      },
+      {
+        "id": 39860,
+        "order_id": 144251,
+        "user_id": 133210,
+        "shop_id": 1606,
+        "product_id": 6262,
+        "merchant_id": 940,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "",
+        "image_urls": [],
+        "user_nickname": "趣粉0613",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094366_56289.png",
+        "score": "4.0",
+        "point_score_service_attitude": "4.0",
+        "point_score_cost_performance": "4.0",
+        "point_score_convenient": "4.0",
+        "tag_list": [
+          1,
+          3,
+          6
+        ],
+        "created_at": "2024-03-15 21:35:35",
+        "updated_at": "2024-03-15 21:35:35",
+        "is_liked": false
+      }
+    ],
+    "shop_tags": [
+      {
+        "id": 1,
+        "name": "服务态度好",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 3
+      },
+      {
+        "id": 3,
+        "name": "位置好找",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 2
+      },
+      {
+        "id": 6,
+        "name": "取货方便",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 2
+      },
+      {
+        "id": 4,
+        "name": "商品新鲜",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 1
+      },
+      {
+        "id": 5,
+        "name": "物美价廉",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 1
+      }
+    ],
+    "positive_rank_percent": 100,
+    "comment_count": 3
+  },
+  "msg": ""
+}

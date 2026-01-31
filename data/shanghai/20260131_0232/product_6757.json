@@ -1,0 +1,124 @@
+{
+  "ret": 0,
+  "detail": {
+    "id": 6757,
+    "shop_id": 1778,
+    "category_id": 18,
+    "merchant_id": 1035,
+    "product_group_id": 0,
+    "cover_url": "https://sjimgpub.slicejobs.com/yihe/admin/category/20/20230526/1685069110_17640.png",
+    "title": "煎饼正传下午茶",
+    "middle_title": "",
+    "status": 1,
+    "remark": "",
+    "suggest_share_cnt": 1,
+    "description_type": 1,
+    "description": "芝士培根软煎饼 加 豆浆",
+    "description_imgs": [],
+    "daily_available_cnt": 999,
+    "today_available_cnt": 999,
+    "is_longtime": true,
+    "start_sale_date": "2024-01-29",
+    "daily_sale_time": "00:00:00",
+    "today_sold_cnt": 0,
+    "today_sent_subscribe": true,
+    "today_online_seconds": 0,
+    "pickup_starttime": "10:00:00",
+    "pickup_endtime": "21:00:00",
+    "last_online_time": "2026-01-31 00:00:00",
+    "origin_price_range": [
+      "19",
+      "20"
+    ],
+    "actual_price": 12.9,
+    "platform_boost_price": 0,
+    "current_store_date": "2026-01-31",
+    "created_at": "2024-01-29 14:59:00",
+    "updated_at": "2026-01-31 00:02:34",
+    "deleted_at": null,
+    "esversion": 1518,
+    "shop": {
+      "id": 1778,
+      "name": "煎饼正传",
+      "address_detail": "上海市普陀区真北路726弄3号B2-17-B(近铁广场南区,地铁真北路站4号出口B2层)",
+      "longitude": "121.38144200",
+      "latitude": "31.23189100",
+      "contacter_tel": "15221376484",
+      "score": "4.5",
+      "positive_rank_cnt": 1,
+      "negative_rank_cnt": 0,
+      "logoimg_url": false,
+      "comment_count": 1
+    },
+    "category_info": {
+      "name": "下午茶",
+      "logo_url": "https://sjimgpub.slicejobs.com/yihe/admin/banner/20/20230526/1685069002_71790.png",
+      "type": 2,
+      "is_food": 1,
+      "cover_url": false
+    },
+    "has_appointment": false,
+    "comment_list": [
+      {
+        "id": 58920,
+        "order_id": 240267,
+        "user_id": 159927,
+        "shop_id": 1778,
+        "product_id": 6757,
+        "merchant_id": 1035,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "",
+        "image_urls": [],
+        "user_nickname": "趣粉5115",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094366_56289.png",
+        "score": "4.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          1,
+          2,
+          4,
+          5
+        ],
+        "created_at": "2025-10-14 13:13:06",
+        "updated_at": "2025-10-14 13:13:06",
+        "is_liked": false
+      }
+    ],
+    "shop_tags": [
+      {
+        "id": 1,
+        "name": "服务态度好",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 1
+      },
+      {
+        "id": 2,
+        "name": "份量大",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 1
+      },
+      {
+        "id": 4,
+        "name": "商品新鲜",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 1
+      },
+      {
+        "id": 5,
+        "name": "物美价廉",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 1
+      }
+    ],
+    "positive_rank_percent": 100,
+    "comment_count": 1
+  },
+  "msg": ""
+}

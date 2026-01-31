@@ -1,0 +1,343 @@
+{
+  "ret": 0,
+  "detail": {
+    "id": 5909,
+    "shop_id": 49,
+    "category_id": 6,
+    "merchant_id": 6,
+    "product_group_id": 0,
+    "cover_url": "https://sjimgpub.slicejobs.com/yihe/merchant/product_cover/3/20231123/1700752820_26101.jpg",
+    "title": "山野面包工坊趣小袋",
+    "middle_title": "",
+    "status": 1,
+    "remark": "",
+    "suggest_share_cnt": 2,
+    "description_type": 1,
+    "description": "每个小袋内产品原价在45元及以上产品均为临期产品，具体的口味及款式无法提前确定，也不支持挑选噢~\n\n若您有忌口或过敏源，请下单后第一时间告知商家\n产品保质期较短，易坏，请务必离店前检查商品！\n如发现质量问题，请立即向商家反馈处理\n确认无误后请尽快食用！\n\n让我们携手将“低碳”进行到底，\n共创没有食物浪费的蓝色星球！\n*图片仅供参考，最终解释权归山野门店所有，具体惊喜袋内商品出现几率如下\n\n产品名\t 抽取几率\n日式红豆面包\t2%\n日式菠萝包\t2%\n山野奶油包\t2%\n迷你餐包5个装       4%\n迷你葡萄餐包5个装\t4%\n巧克力迷你吐司面包\t1%\n山野核桃面包\t4%\n山野葡萄干面包\t4%\n迷你小可颂5个\t2%\n香葱酥松卷面包\t2%\n蝴蝶椰蓉面包\t2%\n山野吐司面包半条装\t5%\n山野红豆吐司面包半条装  5%\n山野全麦吐司半条装\t5%\n法兰克福面包\t3%\n原味酥松面包\t3%\n芝士火腿可颂面包\t2%\n红豆黄油贝果\t2%\n雪山乳酪面包\t2%\n巧克力可颂面包\t2%\n奶香乳酪可颂面包\t2%\n香浓椰丝面包\t2%\n熊宝宝面包\t2%\n扁扁香脆可颂\t2%\n扁扁黑巧克力可颂\t2%\n抹茶花环面包\t1%\n碱水贝果\t        1%\n原味海盐面包\t2%\n蒜香芝士海盐面包\t2%\n碱水脆脆结\t2%\n芝麻短法棍2个装\t2%\n狮子巧克力面包\t1%\n煤球巧克力面包\t2%\n橄榄菜恰巴塔面包\t1%\n咸蛋黄肉松面包\t2%\n岩烧芝士乳酪面包\t1%\n雪芙餐包2粒装\t1%\n丹麦提子卷面包\t1%\n丹麦蜜豆面包\t1%\n杂粮小餐包3粒装\t1%\n山野奶酪吐司半条装\t2%\n巧克力坚果肉桂卷面包\t2%\n草莓玛芬蛋糕\t1%\n原味提子玛芬蛋糕\t1%\n西柚养乐多玛芬蛋糕\t1%\n（长保）山野巧克力大面包\t1%\n（长保）山野燕麦核桃大面包\t1%\n（长保）山野酥松大吐司\t1%\n（长保）山野枫糖大吐司\t1%\n合计\t100%",
+    "description_imgs": [],
+    "daily_available_cnt": 1,
+    "today_available_cnt": 2,
+    "is_longtime": true,
+    "start_sale_date": "2025-01-31",
+    "daily_sale_time": "00:00:00",
+    "today_sold_cnt": 1,
+    "today_sent_subscribe": true,
+    "today_online_seconds": 0,
+    "pickup_starttime": "10:00:00",
+    "pickup_endtime": "21:30:00",
+    "last_online_time": "2026-01-31 00:00:00",
+    "origin_price_range": [
+      "45",
+      "50"
+    ],
+    "actual_price": 15,
+    "platform_boost_price": 0,
+    "current_store_date": "2026-01-31",
+    "created_at": "2023-11-23 23:20:20",
+    "updated_at": "2026-01-31 00:12:52",
+    "deleted_at": null,
+    "esversion": 7965,
+    "shop": {
+      "id": 49,
+      "name": "山野面包工坊（南洋店）",
+      "address_detail": "裕德路165号南洋1931广场B1",
+      "longitude": "121.43380300",
+      "latitude": "31.18578700",
+      "contacter_tel": "13162635713",
+      "score": "5.0",
+      "positive_rank_cnt": 1233,
+      "negative_rank_cnt": 7,
+      "logoimg_url": false,
+      "comment_count": 200
+    },
+    "category_info": {
+      "name": "烘焙",
+      "logo_url": "https://sjimgpub.slicejobs.com/yihe/admin/category/2/20221122/1669098637_78698.png",
+      "type": 1,
+      "is_food": 1,
+      "cover_url": false
+    },
+    "has_appointment": false,
+    "comment_list": [
+      {
+        "id": 59604,
+        "order_id": 245206,
+        "user_id": 201071,
+        "shop_id": 49,
+        "product_id": 5909,
+        "merchant_id": 6,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "",
+        "image_urls": [],
+        "user_nickname": "趣粉8067",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094395_73133.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          1,
+          2,
+          5
+        ],
+        "created_at": "2026-01-30 15:46:01",
+        "updated_at": "2026-01-30 15:46:01",
+        "is_liked": false
+      },
+      {
+        "id": 59602,
+        "order_id": 245114,
+        "user_id": 160610,
+        "shop_id": 49,
+        "product_id": 5909,
+        "merchant_id": 6,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "😎",
+        "image_urls": [
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/160610/20260129/1769631185_21400.jpg"
+        ],
+        "user_nickname": "vivian",
+        "user_avatar_url": "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/160610/20240117/1705499255_67630.gif",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [],
+        "created_at": "2026-01-29 04:13:12",
+        "updated_at": "2026-01-29 04:13:12",
+        "is_liked": false
+      },
+      {
+        "id": 59599,
+        "order_id": 244506,
+        "user_id": 213650,
+        "shop_id": 49,
+        "product_id": 5909,
+        "merchant_id": 6,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "今天又一次取袋.发现又有一个煤球巧克力、最难吃",
+        "image_urls": [
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/213650/20260128/1769600125_85997.jpg"
+        ],
+        "user_nickname": "趣粉8069",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094395_73133.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          2,
+          3,
+          6
+        ],
+        "created_at": "2026-01-28 19:38:09",
+        "updated_at": "2026-01-28 19:38:09",
+        "is_liked": false
+      },
+      {
+        "id": 59598,
+        "order_id": 245143,
+        "user_id": 213650,
+        "shop_id": 49,
+        "product_id": 5909,
+        "merchant_id": 6,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "拿了二次了、有的还可以、最难吃的就是煤球巧克力的、尝了一口丢了还有一个梅粉的也是尝了一口丢了",
+        "image_urls": [],
+        "user_nickname": "趣粉8069",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094395_73133.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          2,
+          3,
+          6
+        ],
+        "created_at": "2026-01-28 19:32:43",
+        "updated_at": "2026-01-28 19:32:43",
+        "is_liked": false
+      },
+      {
+        "id": 59577,
+        "order_id": 245013,
+        "user_id": 87059,
+        "shop_id": 49,
+        "product_id": 5909,
+        "merchant_id": 6,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "",
+        "image_urls": [],
+        "user_nickname": "用户4308",
+        "user_avatar_url": "",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          1,
+          2,
+          3,
+          6
+        ],
+        "created_at": "2026-01-25 16:56:35",
+        "updated_at": "2026-01-25 16:56:35",
+        "is_liked": false
+      },
+      {
+        "id": 59551,
+        "order_id": 244857,
+        "user_id": 213583,
+        "shop_id": 49,
+        "product_id": 5909,
+        "merchant_id": 6,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "",
+        "image_urls": [],
+        "user_nickname": "趣粉7580",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094376_31357.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "created_at": "2026-01-22 18:20:25",
+        "updated_at": "2026-01-22 18:20:25",
+        "is_liked": false
+      },
+      {
+        "id": 59530,
+        "order_id": 244707,
+        "user_id": 87059,
+        "shop_id": 49,
+        "product_id": 5909,
+        "merchant_id": 6,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "棒极了",
+        "image_urls": [],
+        "user_nickname": "用户4308",
+        "user_avatar_url": "",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          1,
+          2,
+          5,
+          6
+        ],
+        "created_at": "2026-01-18 17:00:27",
+        "updated_at": "2026-01-18 17:00:27",
+        "is_liked": false
+      },
+      {
+        "id": 59517,
+        "order_id": 244641,
+        "user_id": 201071,
+        "shop_id": 49,
+        "product_id": 5909,
+        "merchant_id": 6,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "",
+        "image_urls": [],
+        "user_nickname": "趣粉8067",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094395_73133.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          1,
+          2,
+          3
+        ],
+        "created_at": "2026-01-17 15:50:22",
+        "updated_at": "2026-01-17 15:50:22",
+        "is_liked": false
+      }
+    ],
+    "shop_tags": [
+      {
+        "id": 1,
+        "name": "服务态度好",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 241
+      },
+      {
+        "id": 2,
+        "name": "份量大",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 235
+      },
+      {
+        "id": 3,
+        "name": "位置好找",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 196
+      },
+      {
+        "id": 6,
+        "name": "取货方便",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 170
+      },
+      {
+        "id": 5,
+        "name": "物美价廉",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 131
+      },
+      {
+        "id": 4,
+        "name": "商品新鲜",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 125
+      },
+      {
+        "id": 7,
+        "name": "推荐",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 83
+      },
+      {
+        "id": 12,
+        "name": "超惊喜",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 61
+      },
+      {
+        "id": 11,
+        "name": "颜值高",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 55
+      }
+    ],
+    "positive_rank_percent": 99,
+    "comment_count": 200
+  },
+  "msg": ""
+}

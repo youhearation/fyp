@@ -1,0 +1,110 @@
+{
+  "ret": 0,
+  "detail": {
+    "id": 6994,
+    "shop_id": 1653,
+    "category_id": 17,
+    "merchant_id": 980,
+    "product_group_id": 0,
+    "cover_url": "https://sjimgpub.slicejobs.com/yihe/merchant/product_cover/4308/20240316/1710592751_45774.jpg",
+    "title": "愈己咖啡（耀莱物联网产业园店）趣小袋",
+    "middle_title": "",
+    "status": 1,
+    "remark": "",
+    "suggest_share_cnt": 1,
+    "description_type": 1,
+    "description": "趣小袋内包括美式咖啡一杯，可堂食也可自提",
+    "description_imgs": [],
+    "daily_available_cnt": 10,
+    "today_available_cnt": 10,
+    "is_longtime": true,
+    "start_sale_date": "2024-03-19",
+    "daily_sale_time": "00:00:00",
+    "today_sold_cnt": 0,
+    "today_sent_subscribe": true,
+    "today_online_seconds": 0,
+    "pickup_starttime": "10:00:00",
+    "pickup_endtime": "18:00:00",
+    "last_online_time": "2026-01-31 00:00:00",
+    "origin_price_range": [
+      "18",
+      "24"
+    ],
+    "actual_price": 10,
+    "platform_boost_price": 0,
+    "current_store_date": "2026-01-31",
+    "created_at": "2024-03-16 20:38:27",
+    "updated_at": "2026-01-31 00:02:44",
+    "deleted_at": null,
+    "esversion": 1386,
+    "shop": {
+      "id": 1653,
+      "name": "愈己咖啡（耀莱物联网产业园店）",
+      "address_detail": "闵行区联川路319号耀莱物联网产业园（天猫养车旁）",
+      "longitude": "121.52500400",
+      "latitude": "31.07476700",
+      "contacter_tel": "13003290216",
+      "score": "5.0",
+      "positive_rank_cnt": 1,
+      "negative_rank_cnt": 0,
+      "logoimg_url": false,
+      "comment_count": 1
+    },
+    "category_info": {
+      "name": "咖啡",
+      "logo_url": "https://sjimgpub.slicejobs.com/yihe/admin/category/17/20230327/1679897975_82708.jpg",
+      "type": 3,
+      "is_food": 1,
+      "cover_url": false
+    },
+    "has_appointment": false,
+    "comment_list": [
+      {
+        "id": 43478,
+        "order_id": 161270,
+        "user_id": 175344,
+        "shop_id": 1653,
+        "product_id": 6994,
+        "merchant_id": 980,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "环境很好，下午人不多，非常舒适",
+        "image_urls": [
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/175344/20240428/1714289002_72351.jpg"
+        ],
+        "user_nickname": "趣粉7854",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094409_76492.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          3,
+          6
+        ],
+        "created_at": "2024-04-28 15:23:48",
+        "updated_at": "2024-04-28 15:23:48",
+        "is_liked": false
+      }
+    ],
+    "shop_tags": [
+      {
+        "id": 3,
+        "name": "位置好找",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 1
+      },
+      {
+        "id": 6,
+        "name": "取货方便",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 1
+      }
+    ],
+    "positive_rank_percent": 100,
+    "comment_count": 1
+  },
+  "msg": ""
+}
