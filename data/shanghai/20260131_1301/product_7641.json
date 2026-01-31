@@ -1,0 +1,336 @@
+{
+  "ret": 0,
+  "detail": {
+    "id": 7641,
+    "shop_id": 2007,
+    "category_id": 6,
+    "merchant_id": 1275,
+    "product_group_id": 0,
+    "cover_url": "https://sjimgpub.slicejobs.com/yihe/merchant/product_cover/3115/20240617/1718619475_66119.jpg",
+    "title": "LOVBEK bakery & coffee趣小袋2",
+    "middle_title": "",
+    "status": 1,
+    "remark": "",
+    "suggest_share_cnt": 2,
+    "description_type": 1,
+    "description": "趣小袋内可能含有面包、吐司、贝果等【随机产品】。\n产品均为临期产品，具体的口味及款式无法提前确定，也不支持挑选噢～\n\n若您有忌口或过敏源，请下单后第一时间告知商家\n产品保质期较短，易坏，请务必离店前检查商品！\n如发现质量问题，请立即向商家反馈处理\n确认无误后请尽快食用！\n\n让我们携手将“低碳”进行到底，\n共创没有食物浪费的蓝色星球！\n*图片仅供参考",
+    "description_imgs": [],
+    "daily_available_cnt": 1,
+    "today_available_cnt": 1,
+    "is_longtime": true,
+    "start_sale_date": "2024-12-18",
+    "daily_sale_time": "00:00:00",
+    "today_sold_cnt": 0,
+    "today_sent_subscribe": true,
+    "today_online_seconds": 0,
+    "pickup_starttime": "20:00:00",
+    "pickup_endtime": "21:00:00",
+    "last_online_time": "2026-01-31 00:00:00",
+    "origin_price_range": [
+      "38",
+      "40"
+    ],
+    "actual_price": 18.8,
+    "platform_boost_price": 0,
+    "current_store_date": "2026-01-31",
+    "created_at": "2024-06-17 18:17:49",
+    "updated_at": "2026-01-31 00:02:57",
+    "deleted_at": null,
+    "esversion": 1186,
+    "shop": {
+      "id": 2007,
+      "name": "LOVBEK bakery & coffee(淡水河畔店)",
+      "address_detail": "闵行区剑川路888号22幢",
+      "longitude": "121.42800900",
+      "latitude": "31.02985400",
+      "contacter_tel": "17717455770",
+      "score": "5.0",
+      "positive_rank_cnt": 37,
+      "negative_rank_cnt": 2,
+      "logoimg_url": false,
+      "comment_count": 37
+    },
+    "category_info": {
+      "name": "烘焙",
+      "logo_url": "https://sjimgpub.slicejobs.com/yihe/admin/category/2/20221122/1669098637_78698.png",
+      "type": 1,
+      "is_food": 1,
+      "cover_url": false
+    },
+    "has_appointment": false,
+    "comment_list": [
+      {
+        "id": 58697,
+        "order_id": 238733,
+        "user_id": 179012,
+        "shop_id": 2007,
+        "product_id": 7642,
+        "merchant_id": 1275,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "",
+        "image_urls": [],
+        "user_nickname": "趣粉6656",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094402_14835.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [],
+        "created_at": "2025-09-18 20:27:31",
+        "updated_at": "2025-09-18 20:27:31",
+        "is_liked": false
+      },
+      {
+        "id": 58344,
+        "order_id": 236464,
+        "user_id": 207079,
+        "shop_id": 2007,
+        "product_id": 7640,
+        "merchant_id": 1275,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "",
+        "image_urls": [
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/207079/20250808/1754656704_81541.jpg",
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/207079/20250808/1754656710_22196.jpg"
+        ],
+        "user_nickname": "趣粉1235",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094395_73133.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          1
+        ],
+        "created_at": "2025-08-08 20:38:31",
+        "updated_at": "2025-08-08 20:38:31",
+        "is_liked": false
+      },
+      {
+        "id": 57390,
+        "order_id": 230591,
+        "user_id": 203810,
+        "shop_id": 2007,
+        "product_id": 7640,
+        "merchant_id": 1275,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "",
+        "image_urls": [],
+        "user_nickname": "趣粉8620",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094388_13424.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          1,
+          3,
+          4
+        ],
+        "created_at": "2025-05-20 20:52:50",
+        "updated_at": "2025-05-20 20:52:50",
+        "is_liked": false
+      },
+      {
+        "id": 57313,
+        "order_id": 230145,
+        "user_id": 203810,
+        "shop_id": 2007,
+        "product_id": 7642,
+        "merchant_id": 1275,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "",
+        "image_urls": [],
+        "user_nickname": "趣粉8620",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094388_13424.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          1,
+          2,
+          6
+        ],
+        "created_at": "2025-05-16 20:54:59",
+        "updated_at": "2025-05-16 20:54:59",
+        "is_liked": false
+      },
+      {
+        "id": 56645,
+        "order_id": 226895,
+        "user_id": 192603,
+        "shop_id": 2007,
+        "product_id": 7641,
+        "merchant_id": 1275,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "很不错",
+        "image_urls": [],
+        "user_nickname": "趣粉6817",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094388_13424.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          2,
+          4
+        ],
+        "created_at": "2025-04-16 20:40:52",
+        "updated_at": "2025-04-16 20:40:52",
+        "is_liked": false
+      },
+      {
+        "id": 56235,
+        "order_id": 224691,
+        "user_id": 97179,
+        "shop_id": 2007,
+        "product_id": 7640,
+        "merchant_id": 1275,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "一份吐司加司康，提拉米苏吐司好好吃。下回会复购的",
+        "image_urls": [
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/97179/20250403/1743665717_28800.jpg"
+        ],
+        "user_nickname": "用户3709",
+        "user_avatar_url": "",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          1,
+          6
+        ],
+        "created_at": "2025-04-03 15:35:49",
+        "updated_at": "2025-04-03 15:35:49",
+        "is_liked": false
+      },
+      {
+        "id": 56219,
+        "order_id": 224845,
+        "user_id": 179634,
+        "shop_id": 2007,
+        "product_id": 7641,
+        "merchant_id": 1275,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "无限回购！好爱他家的，这次还有一个新品，开心",
+        "image_urls": [
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/179634/20250402/1743597443_58186.jpg",
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/179634/20250402/1743597443_48287.jpg",
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/179634/20250402/1743597443_11472.jpg",
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/179634/20250402/1743597444_10686.jpg"
+        ],
+        "user_nickname": "趣粉9734",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094402_14835.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [],
+        "created_at": "2025-04-02 20:37:40",
+        "updated_at": "2025-04-02 20:37:40",
+        "is_liked": false
+      },
+      {
+        "id": 55903,
+        "order_id": 223232,
+        "user_id": 199279,
+        "shop_id": 2007,
+        "product_id": 7640,
+        "merchant_id": 1275,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "",
+        "image_urls": [],
+        "user_nickname": "趣粉1773",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094409_76492.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          5
+        ],
+        "created_at": "2025-03-23 20:15:13",
+        "updated_at": "2025-03-23 20:15:13",
+        "is_liked": false
+      }
+    ],
+    "shop_tags": [
+      {
+        "id": 1,
+        "name": "服务态度好",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 20
+      },
+      {
+        "id": 6,
+        "name": "取货方便",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 14
+      },
+      {
+        "id": 4,
+        "name": "商品新鲜",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 13
+      },
+      {
+        "id": 2,
+        "name": "份量大",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 12
+      },
+      {
+        "id": 3,
+        "name": "位置好找",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 11
+      },
+      {
+        "id": 7,
+        "name": "推荐",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 7
+      },
+      {
+        "id": 5,
+        "name": "物美价廉",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 5
+      },
+      {
+        "id": 12,
+        "name": "超惊喜",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 5
+      },
+      {
+        "id": 11,
+        "name": "颜值高",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 1
+      }
+    ],
+    "positive_rank_percent": 95,
+    "comment_count": 6
+  },
+  "msg": ""
+}

@@ -1,0 +1,374 @@
+{
+  "ret": 0,
+  "detail": {
+    "id": 7851,
+    "shop_id": 2024,
+    "category_id": 6,
+    "merchant_id": 1287,
+    "product_group_id": 0,
+    "cover_url": "https://sjimgpub.slicejobs.com/yihe/merchant/product_cover/4925/20240910/1725945156_92753.jpg",
+    "title": "一途猫趣小袋",
+    "middle_title": "",
+    "status": 1,
+    "remark": "",
+    "suggest_share_cnt": 3,
+    "description_type": 1,
+    "description": "趣小袋内可能含有甜面包，料理面包，碱水，可颂，切片吐司等【随机产品】。\n产品均为临期产品，具体的口味及款式无法提前确定，也不支持挑选噢～\n\n若您有忌口或过敏源，请下单后第一时间告知商家\n产品保质期较短，易坏，请务必离店前检查商品！\n如发现质量问题，请立即向商家反馈处理\n确认无误后请尽快食用！\n\n让我们携手将“低碳”进行到底，\n共创没有食物浪费的蓝色星球！\n*图片仅供参考",
+    "description_imgs": [],
+    "daily_available_cnt": 0,
+    "today_available_cnt": 0,
+    "is_longtime": true,
+    "start_sale_date": "2025-06-21",
+    "daily_sale_time": "00:10:00",
+    "today_sold_cnt": 0,
+    "today_sent_subscribe": true,
+    "today_online_seconds": 0,
+    "pickup_starttime": "10:00:00",
+    "pickup_endtime": "22:00:00",
+    "last_online_time": "2026-01-31 00:10:00",
+    "origin_price_range": [
+      "46",
+      "60"
+    ],
+    "actual_price": 20,
+    "platform_boost_price": 0,
+    "current_store_date": "2026-01-31",
+    "created_at": "2024-09-10 12:57:58",
+    "updated_at": "2026-01-31 00:07:04",
+    "deleted_at": null,
+    "esversion": 1603,
+    "shop": {
+      "id": 2024,
+      "name": "一途猫",
+      "address_detail": "上海市长宁区 中山西路750号1幢1105室",
+      "longitude": "121.41101163",
+      "latitude": "31.20784220",
+      "contacter_tel": "15001737071",
+      "score": "4.9",
+      "positive_rank_cnt": 46,
+      "negative_rank_cnt": 0,
+      "logoimg_url": false,
+      "comment_count": 46
+    },
+    "category_info": {
+      "name": "烘焙",
+      "logo_url": "https://sjimgpub.slicejobs.com/yihe/admin/category/2/20221122/1669098637_78698.png",
+      "type": 1,
+      "is_food": 1,
+      "cover_url": false
+    },
+    "has_appointment": false,
+    "comment_list": [
+      {
+        "id": 58022,
+        "order_id": 234527,
+        "user_id": 156487,
+        "shop_id": 2024,
+        "product_id": 7851,
+        "merchant_id": 1287,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "有五个包 而且三个是带馅料的 只不过都是冷冻保存的 需要回家烘烤一下",
+        "image_urls": [
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/156487/20250709/1752063314_47771.jpg",
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/156487/20250709/1752063314_82991.jpg"
+        ],
+        "user_nickname": "趣粉1077",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094366_56289.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          1,
+          2,
+          3,
+          5,
+          6
+        ],
+        "created_at": "2025-07-09 20:15:49",
+        "updated_at": "2025-07-09 20:15:49",
+        "is_liked": false
+      },
+      {
+        "id": 57607,
+        "order_id": 231867,
+        "user_id": 52756,
+        "shop_id": 2024,
+        "product_id": 7851,
+        "merchant_id": 1287,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "",
+        "image_urls": [],
+        "user_nickname": "用户8036",
+        "user_avatar_url": "",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [],
+        "created_at": "2025-06-05 18:19:21",
+        "updated_at": "2025-06-05 18:19:21",
+        "is_liked": false
+      },
+      {
+        "id": 57597,
+        "order_id": 231784,
+        "user_id": 204640,
+        "shop_id": 2024,
+        "product_id": 7851,
+        "merchant_id": 1287,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "",
+        "image_urls": [
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/204640/20250604/1749044678_62265.jpg"
+        ],
+        "user_nickname": "趣粉6280",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094376_31357.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          11,
+          12
+        ],
+        "created_at": "2025-06-04 21:44:49",
+        "updated_at": "2025-06-04 21:44:49",
+        "is_liked": false
+      },
+      {
+        "id": 57495,
+        "order_id": 231199,
+        "user_id": 194063,
+        "shop_id": 2024,
+        "product_id": 7851,
+        "merchant_id": 1287,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "很幸运还拿到了网红产品猫猫吐司，超级可爱，给的量很多",
+        "image_urls": [
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/194063/20250528/1748388107_99280.jpg"
+        ],
+        "user_nickname": "趣粉7242",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094376_31357.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          1,
+          2,
+          3,
+          11
+        ],
+        "created_at": "2025-05-28 07:22:31",
+        "updated_at": "2025-05-28 07:22:31",
+        "is_liked": false
+      },
+      {
+        "id": 57418,
+        "order_id": 230841,
+        "user_id": 52756,
+        "shop_id": 2024,
+        "product_id": 7851,
+        "merchant_id": 1287,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "拿到了几个新口味，开心🥳",
+        "image_urls": [
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/52756/20250523/1748000320_78602.jpg"
+        ],
+        "user_nickname": "用户8036",
+        "user_avatar_url": "",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          1,
+          2,
+          3,
+          6,
+          7
+        ],
+        "created_at": "2025-05-23 19:39:04",
+        "updated_at": "2025-05-23 19:39:04",
+        "is_liked": false
+      },
+      {
+        "id": 57415,
+        "order_id": 230770,
+        "user_id": 202433,
+        "shop_id": 2024,
+        "product_id": 7851,
+        "merchant_id": 1287,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "总共5个，其中两个冰面包，夏天吃很合适。下次再去买点其他面包试试。",
+        "image_urls": [
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/202433/20250523/1747987435_47036.jpg",
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/202433/20250523/1747987435_56998.jpg"
+        ],
+        "user_nickname": "趣粉0864",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094402_14835.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          1,
+          11
+        ],
+        "created_at": "2025-05-23 16:05:26",
+        "updated_at": "2025-05-23 16:05:26",
+        "is_liked": false
+      },
+      {
+        "id": 57036,
+        "order_id": 228891,
+        "user_id": 94098,
+        "shop_id": 2024,
+        "product_id": 7851,
+        "merchant_id": 1287,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "一共五个面包，每个都不一样。店员会告知吃不完的放冰箱。很不错，量很大，看着也很新鲜。",
+        "image_urls": [
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/94098/20250504/1746353015_86205.jpg",
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/94098/20250504/1746353096_34404.jpg"
+        ],
+        "user_nickname": "cikii",
+        "user_avatar_url": "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/94098/20230919/1695082920_83294.jpg",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          1,
+          2,
+          3,
+          5,
+          6
+        ],
+        "created_at": "2025-05-04 18:05:01",
+        "updated_at": "2025-05-04 18:05:01",
+        "is_liked": false
+      },
+      {
+        "id": 57029,
+        "order_id": 228775,
+        "user_id": 202336,
+        "shop_id": 2024,
+        "product_id": 7851,
+        "merchant_id": 1287,
+        "liked_count": 0,
+        "from_type": 1,
+        "content": "真得太喜欢她们家的面包了，每次都是一大袋，量足口感也棒，代馅的量足也美味，面包烘烤的也适时，真得超值，家人们都爱吃。店里的美女妹妹每次都会贴心的提示，很温馨的小店。",
+        "image_urls": [
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/202336/20250504/1746312271_92823.jpg",
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/202336/20250504/1746312271_10906.jpg",
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/202336/20250504/1746312271_73652.jpg",
+          "https://sjimgpub.slicejobs.com/yihe/app/user_avatar/202336/20250504/1746312271_30606.jpg"
+        ],
+        "user_nickname": "趣粉8463",
+        "user_avatar_url": "https://sjimgpubdev.slicejobs.com/yihe/admin/user_avatar/4/20230630/1688094395_73133.png",
+        "score": "5.0",
+        "point_score_service_attitude": "5.0",
+        "point_score_cost_performance": "5.0",
+        "point_score_convenient": "5.0",
+        "tag_list": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          11,
+          12
+        ],
+        "created_at": "2025-05-04 06:44:34",
+        "updated_at": "2025-05-04 06:44:34",
+        "is_liked": false
+      }
+    ],
+    "shop_tags": [
+      {
+        "id": 1,
+        "name": "服务态度好",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 34
+      },
+      {
+        "id": 2,
+        "name": "份量大",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 25
+      },
+      {
+        "id": 6,
+        "name": "取货方便",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 24
+      },
+      {
+        "id": 3,
+        "name": "位置好找",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 22
+      },
+      {
+        "id": 4,
+        "name": "商品新鲜",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 15
+      },
+      {
+        "id": 5,
+        "name": "物美价廉",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 14
+      },
+      {
+        "id": 7,
+        "name": "推荐",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 12
+      },
+      {
+        "id": 11,
+        "name": "颜值高",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 12
+      },
+      {
+        "id": 12,
+        "name": "超惊喜",
+        "type": "good",
+        "is_disabled": 0,
+        "tag_count": 11
+      }
+    ],
+    "positive_rank_percent": 100,
+    "comment_count": 46
+  },
+  "msg": ""
+}
